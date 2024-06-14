@@ -1,0 +1,118 @@
+body,h1,h2,h3,p{
+    font-family: Arial;
+    padding: 0px;
+    margin: 0px;
+}
+
+header{
+    height: 140px;
+    background-color: #4793AF;
+}
+
+.container h1{
+    padding-left: 30px;
+    padding-top: 20px;
+    color: antiquewhite;
+    font-size: 30px;
+}
+
+.container ul li{
+    display: inline;
+    padding-left: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: antiquewhite;
+}
+
+/* Section 1 Style the hero section */
+
+
+.hero{
+    background-image: url(hero-img.jpg);
+    background-size: cover;
+    color: antiquewhite;
+    text-align: center;
+    padding:100px 0;
+    
+}
+
+.hero h2{
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.hero p{
+    font-size: 18px;
+}
+
+.btn{
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #333;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+/* section 2 Style for Feature */
+
+.features{
+    padding: 60px 0;
+    background-color: #FDDE55;  
+}
+
+.container h2{
+    font-size: 28px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.feature{
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 35px;
+}
+.feature p{
+    font-size: 16px;
+}
+
+/* Section 3 for Services*/
+.services{
+    padding: 60px 0;
+    background-color: #BFD8B8;  
+}
+
+/* Section 4 for Contact Us*/
+.ContactUs{
+    padding: 40px 0;
+    background-color: #7E8EF1; 
+    align-items: center; 
+} 
+
+.contactUs h2{
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+.EmailUs{
+    text-align: center;
+}
+
+footer{
+    background-color: #333;
+    text-align: center;
+    color: antiquewhite;
+    height: 60px;
+    padding: 30px 0px;
+}
+
+
+
+
+
+
+
+
+
